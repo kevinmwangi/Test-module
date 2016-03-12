@@ -23,5 +23,5 @@ $(document).ready(function () {
 			"</tr>");
 	}	
 
-
+	console.log(calculate.moduleData().data);
 });
