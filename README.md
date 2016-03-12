@@ -15,7 +15,7 @@ The main data object returns a structure that looks like this:
 
 The main logic is the main.js file
 
-# To instanciate the app:
+# To instantiate the app:
 
 ```javascript 
 
